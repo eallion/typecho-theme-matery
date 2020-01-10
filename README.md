@@ -6,6 +6,10 @@
 
 > 这是一个采用 `Material Design` 和响应式设计的 Hexo 博客主题。
 
+## 授权
+
+- [https://github.com/blinkfox/hexo-theme-matery/issues/281](https://github.com/blinkfox/hexo-theme-matery/issues/281)
+
 ## 特性
 
 - 简单漂亮，文章内容美观易读
